@@ -1,6 +1,6 @@
 # SUDA-SE-lessons
 
-这个仓库目前是23级Gao Chuxuan, astisover在进行维护。
+这个仓库目前是23级astisover在进行维护。
 
 我是astisover，仓库版本fork自Gao同学的，这是我的QQ:2234274477，我们会各自整理，必要时进行整合。
 
